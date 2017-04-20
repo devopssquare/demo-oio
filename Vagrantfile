@@ -3,7 +3,7 @@
 
 composite = ENV['VAGRANT_COMPOSITE'] || "current"
 
-name = ENV['VAGRANT_NAME'] || "devopssquare-jugf"
+name = ENV['VAGRANT_NAME'] || "devopssquare-oio"
 # Memory settings for "minimal" environment
 memory = ENV['VAGRANT_MEMORY'] || 2048
 ip_unique = ENV['VAGRANT_IP_UNIQUE'] || "47"
